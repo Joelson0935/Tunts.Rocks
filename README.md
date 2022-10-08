@@ -1,5 +1,7 @@
 # Tunts.Rocks
 
+<h3>o código se encontra entro da branch master deste repositório</h3>
+
 Olá, aqui neste repositório se encontra o script de consumo de dados da planilha do google 
 
 como foi pedido no desafio, para poder buscar os dados e atualizá-los será necessário alguns passos:
